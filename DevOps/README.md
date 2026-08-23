@@ -6,6 +6,8 @@ We have prepared 3 DevOps tasks according to their respective difficulty levels.
 
 Note: Complete and submit the assigned task according to the instructions provided by the TechnoJam team.
 
+> **Resources:** For reference materials, tools, and helpful links for DevOps, check out `Resources.md`.
+
 ---
 
 ## Easy - Git and GitHub
