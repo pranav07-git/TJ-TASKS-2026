@@ -108,6 +108,8 @@ Deploy the website using [GitHub Pages](https://docs.github.com/en/pages), [Clou
 - [Aceternity UI](https://ui.aceternity.com/)
 - [Supabase Auth](https://supabase.com/docs/guides/auth)
 - [Clerk Auth](https://clerk.com/)
+- [Tanstack](https://tanstack.com/)
+- [Learn Tanstack](https://youtu.be/mPaCnwpFvZY?si=LFQFC1lxKJOY8TXn)
 ---
 
 
