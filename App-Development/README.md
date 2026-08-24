@@ -35,6 +35,10 @@ Create a simple calculator mobile application.
 - [Swift — Apple Developer](https://developer.apple.com/swift/)
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [React Native Documentation](https://reactnative.dev/docs/getting-started)
+- [Learn Kotlin](https://youtu.be/dzUc9vrsldM?si=rUZRUUMBHT3-7zq5)
+- [Learn React Native](https://youtu.be/BUXnASp_WyQ?si=mbaKiZ_Wn07OM8VD)
+- [Learn Flutter](https://youtu.be/pTJJsmejUOQ?si=tJZrC8-HSaOjWpdm)
+- [Learn Swift](https://youtu.be/8Xg7E9shq0U?si=XZ31dgDh7mklJjGK)
 
 ---
 
@@ -64,6 +68,10 @@ Create a simple notes mobile application.
 - [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/)
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [React Native Documentation](https://reactnative.dev/docs/getting-started)
+- [Learn Kotlin](https://youtu.be/dzUc9vrsldM?si=rUZRUUMBHT3-7zq5)
+- [Learn React Native](https://youtu.be/BUXnASp_WyQ?si=mbaKiZ_Wn07OM8VD)
+- [Learn Flutter](https://youtu.be/pTJJsmejUOQ?si=tJZrC8-HSaOjWpdm)
+- [Learn Swift](https://youtu.be/8Xg7E9shq0U?si=XZ31dgDh7mklJjGK)
 
 ---
 
@@ -96,7 +104,10 @@ Create a mobile application that allows users to search for GitHub profiles.
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [React Native Documentation](https://reactnative.dev/docs/getting-started)
 - [GitHub REST API Documentation](https://docs.github.com/en/rest)
-
+- [Learn Kotlin](https://youtu.be/dzUc9vrsldM?si=rUZRUUMBHT3-7zq5)
+- [Learn React Native](https://youtu.be/BUXnASp_WyQ?si=mbaKiZ_Wn07OM8VD)
+- [Learn Flutter](https://youtu.be/pTJJsmejUOQ?si=tJZrC8-HSaOjWpdm)
+- [Learn Swift](https://youtu.be/8Xg7E9shq0U?si=XZ31dgDh7mklJjGK)
 ---
 
 Make sure your work is properly documented and that you understand the code and concepts used.
