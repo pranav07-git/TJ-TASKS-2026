@@ -48,7 +48,7 @@ Deploy the website using [GitHub Pages](https://docs.github.com/en/pages), [Clou
 
 ### Task: Build a Task Management Application
 
-Create a GitHub Profile Explorer using HTML, CSS and JavaScript.
+Build a Task Management application where it should be abel to do basic functions like task creation ,deleteion, updation, etc.
 
 ### Requirements
 
